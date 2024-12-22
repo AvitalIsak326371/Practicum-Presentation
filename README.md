@@ -41,7 +41,7 @@
 ## איך לצפות במצגת
 
 1. הורד את המצגת .
-2. פתח את קובץ המצגת `presentation.pptx` בעזרת PowerPoint או Google Slides.
+2. פתח את קובץ המצגת בעזרת PowerPoint או Google Slides.
 
 ## קישורים נוספים
 
